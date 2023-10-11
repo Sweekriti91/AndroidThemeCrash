@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <color name="primary">#0D287F</color>
+  <color name="primaryDark">#0D287F</color>
+  <color name="accent">#0D287F</color>
+  <color name="window_background">#FFFFFF</color>
+  <color name="tabbar">#FFFFFF</color>
+  <color name="toolbarBackground">#000000</color>
+  <color name="transparent">#00000000</color>
+  <color name="tabbarUnderline">#FFFFFF</color>
+</resources>
+
+<!--<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#512BD4</color>
+    <color name="colorPrimaryDark">#2B0B98</color>
+    <color name="colorAccent">#2B0B98</color>
+</resources>-->
